@@ -1,0 +1,1 @@
+Using basic HTML skills learned from The Odin Project course to create a basic recipe website.
